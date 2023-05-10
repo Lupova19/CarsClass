@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Cars9D\Cars\bin\Debug\Cars.exe.config
+C:\Users\Admin\Desktop\Lupova19\Cars9D\Cars\bin\Debug\Cars.exe
+C:\Users\Admin\Desktop\Lupova19\Cars9D\Cars\bin\Debug\Cars.pdb
+C:\Users\Admin\Desktop\Lupova19\Cars9D\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Cars9D\Cars\obj\Debug\Cars.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Cars9D\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Cars9D\Cars\obj\Debug\Cars.exe
+C:\Users\Admin\Desktop\Lupova19\Cars9D\Cars\obj\Debug\Cars.pdb
